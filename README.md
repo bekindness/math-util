@@ -6,6 +6,9 @@
 * A JUnit source code to demonstrate the Unit Testing , TDD & DDT technique 
 * A CI script to check and build the project automatically with GitHub Actions 
 
+### Screen-shorts 
+![JUnit with TDD, DDT](https://github.com/qcuong32/math-util/blob/main/screen-shorts/DDT%20with%20JUnit.png)
+
 #### Connect me via: huynhquoccuong.lop9a1.2021@gmail.com
 
-#### &#164; 2026 - cuong32
+#### &#169; 2026 - cuong32
