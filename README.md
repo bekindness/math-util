@@ -1,5 +1,7 @@
 # Welcome to Math Utility 
 
+[![Math Utility Project (CI included)](https://github.com/bekindness/math-util/actions/workflows/ci.yml/badge.svg)](https://github.com/bekindness/math-util/actions/workflows/ci.yml)
+
 ### You will find in this repo the following stuff: 
 
 * A Maven project to implement Math Util library 
